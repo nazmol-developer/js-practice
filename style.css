@@ -1,0 +1,134 @@
+*{margin:0;
+padding:0;}
+
+body{font-family: 'Redressed', cursive;
+background-color:#F5B7B1;}
+
+button{padding:5px 10px;
+border-radius:20px;}
+
+button:hover{background-color:blue;
+color:white;
+padding:5px 10px;
+border-radius:20px;}
+
+header{margin-left:150px;
+	padding:0 300px;
+background-color:#D6DBDF;}
+
+.nav-item a{font-size:25px;}
+
+header img{width:120px;
+height:80px;
+margin-right: 100px;}
+
+.js1{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js2{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js3{text-align:center;
+padding:30px 0;}
+
+.js4{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.naz4{font-size:35px;}
+
+.js5{text-align:center;
+padding:30px 0;
+font-size:25px;}
+
+.js6{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js7{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js8{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js9{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js10{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js11{text-align:center;
+padding:30px 0;
+font-size:30px;}
+
+.js11{text-align:center;
+padding:30px 0;}
+
+.js11 h4{margin-bottom: 10px;}
+
+.js11 input{padding: 8px 10px;
+border-radius: 20px;}
+
+.js12{text-align:center;
+padding:30px 0;
+font-size: 20px;}
+
+.js12 h1{font-size: 50px;}
+
+.js13{text-align:center;
+padding:30px 0;
+font-size: 20px;}
+
+.js13 h1{font-size: 50px;}
+
+.js13 h2{margin-top: 10px;
+margin-bottom:10px;}
+
+#book11{text-align: center;}
+
+.js14{text-align:center;
+padding:30px 0;
+font-size: 20px;
+display: inline-block;}
+
+.js14 h2{margin-top: 10px;
+margin-bottom:20px;
+font-size: 50px;}
+
+#book1{margin-left: 150px;}
+
+#js15{text-align:center;
+padding:30px 0;
+font-size: 20px;}
+
+#js15 h2{font-size: 50px;}
+
+#js15 p{margin-top: 10px;
+margin-bottom:20px;}
+
+#js16{text-align:center;
+padding:30px 0;
+font-size: 20px;}
+
+#js16 h2{font-size: 50px;}
+
+#js16 p{margin-top: 10px;
+margin-bottom:20px;}
+
+#js17{text-align:center;
+padding:30px 0;
+font-size: 20px;}
+
+#js17 h2{font-size: 50px;}
+
+#js17 p{margin-top: 10px;
+margin-bottom:20px;}
+
+footer{background-color:#D6DBDF;}
+
